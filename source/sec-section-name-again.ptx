@@ -3,6 +3,11 @@
 <section xml:id="sec-section-name-again" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>A different section</title>
 
-  <p> To be included int the second chapter</p>
+  <p>Here is an example of some inline mathematics. Many students believe that <m>2^{-5}</m> means <m>-2^5=-32</m>. That is, they just treat a negative exponent as a regular exponent but with a minus sign in front. In fact, the negative is telling us <q>do the opposite of what you usually do</q> so if we usually do repeated multiplication, we will instead do repeated division. From that perspective, we get
+  <md>
+    2^{-5} = \frac{1}{2\cdot 2\cdot 2\cdot 2\cdot 2} = \frac{1}{2^5} = \frac{1}{32}
+  </md>
+  
+  </p>
 
 </section>
