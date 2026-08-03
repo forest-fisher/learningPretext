@@ -9,5 +9,9 @@
   <p>
     Here is a paragraphs describing something new. I want to see how it handles wrapping text and transitioning from one paragraph to another, etc. Let's try <em>emphasizing some text...I assume that is italics?</em> and we can try <q>quoting some text? Is this a block quote?</q>
   </p>
+  <figure xml:id="img-butterfly">
+    <title>Picture of a Butterfly</title>
+    <image source="butterfly.jpg" />
+  </figure>
 
 </section>
