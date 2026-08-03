@@ -7,6 +7,9 @@
     This is the first paragraph. I just updated what it says. We're just playing around with features because who knows how they work?!
   </p>
   <p>
+    Adding this paragraph so I can test how url's work. Here is a link to <url href="https://www.swroasting.coffee/">S&amp;W Coffee Roaster's website</url>.
+  </p>
+  <p>
     Here is a paragraphs describing something new. I want to see how it handles wrapping text and transitioning from one paragraph to another, etc. Let's try <em>emphasizing some text...I assume that is italics?</em> and we can try <q>quoting some text? Is this a block quote?</q>
   </p>
   <figure xml:id="img-butterfly">
