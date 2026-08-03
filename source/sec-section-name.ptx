@@ -11,7 +11,25 @@
   </p>
   <figure xml:id="img-butterfly">
     <title>Picture of a Butterfly</title>
-    <image source="butterfly.jpg" />
+    <image source="butterfly.jpg">
+    <shortdescription>picture of a butterfly</shortdescription>
+    <description>There is not much to say about this image. It shows a butterfly.</description>
+    </image>
   </figure>
+  <p>
+    Here is an unordered list.
+    <ol>
+      <li>
+        <p>
+          First item in the list.
+        </p>
+      </li>
+      <li>
+        <p>
+          Second item in the list, which includes some math: <m>y = x^2 + 1</m>
+        </p>
+      </li>
+    </ol>
+  </p>
 
 </section>
