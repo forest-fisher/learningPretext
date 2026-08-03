@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-testing-out-exercises" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Testing Out Exercises</title>
+
+  <p>
+    This section is a place to try out different exercises described in chapter 3 of The PreTeXt Guide and see how they differ. The first type of exercise is a <em>divisional exercise</em>.
+  </p>
+  <exercise>
+    <statement>
+      <p>
+        Solve the equation
+        <md>
+          3x + 2 = 17
+        </md>
+      </p>
+    </statement>
+    <hint>
+      <p>
+        Try to get <m>x</m> all by itself on one side of the equation.
+      </p>
+    </hint>
+    <answer>
+      <p>
+        <m>x=5</m>
+      </p>
+    </answer>
+    <solution>
+      <p>
+        To solve this equation, we first subtract <m>2</m> from both sides, giving us
+        <md>
+          3x = 15
+        </md>
+        Then, we divide both sides by <m>3</m> to cancel out the coefficient of <m>x</m>, which gives us
+        <md>
+          x = \frac{15}{3} = 5
+        </md>
+      </p>
+    </solution>
+  </exercise>
+
+  <p>
+    Now, we will consider the second type of exercise, which is an <em>inline exercise</em>. These are placed within a paragraph itself and mostly just contain a statement. For instance, <exercise>
+      <p>
+        Solve the equation
+          <md>
+            3x + 2 = 17
+          </md>    
+      </p>
+    </exercise>
+  The point of this section is to see how these look differently in print.
+  </p>
+  <p>
+    A third type of exercise is the <em>reading questions</em>. These are housed in their own division as follows.
+  </p>
+  <reading-questions xml:id="rqs-testing-out-exercises">
+  <exercise>
+    <statement>
+      <p>
+        This is a reading question?
+      </p>
+    </statement>
+    <hint>
+      <p>
+        Check the guide.
+      </p>
+    </hint>
+  </exercise>
+  </reading-questions>
+
+</section>
